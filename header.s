@@ -30,4 +30,4 @@
     dc.b    '                '  ; 11    $1C0    modem info. (12 bytes)
     dc.b    '                '  ;       $1D0
     dc.b    '                '  ;       $1E0
-    dc.b    'U               '  ; 13    $1F0    contry code for release (16 bytes)
+    dc.b    'U               '  ; 13    $1F0    country code for release (16 bytes)

@@ -16,7 +16,6 @@ __start:
 ;============================================================
 ; Snasm equates
 ; No longer useful unless you have SNASM debug hardware!
-; Kept for hisotrical reasons
 ;============================================================
 SCSITrap:    equ $208008
 SCSIExcept:  equ $20800C
